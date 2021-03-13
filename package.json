@@ -1,7 +1,7 @@
 {
   "name": "phone-regex-ts",
   "version": "1.0.0",
-  "description": "a typescript-starter project",
+  "description": "A phone regex builder",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
